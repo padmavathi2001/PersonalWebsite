@@ -7,8 +7,6 @@ An user can upload files as well as download and delete the files
 
 An user can add to-do lists, after completion of that task, he/she can delete that particular task.
 
-I added output images as well, once check it carefully
-
 
 *************************************************************************************
 This repository hosts the source files of my personal website. It is hosted at
